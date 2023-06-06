@@ -1,2 +1,5 @@
-# Organizer
-Advanced File Organizer
+
+# File Organizer
+
+A tool for organizing your files or junks
+
